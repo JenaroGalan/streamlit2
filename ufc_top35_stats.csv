@@ -1,0 +1,36 @@
+ID,Fighter,Record,Points,nickname,wins,losses,draws,height_cm,weight_in_kg,reach_in_cm,stance,date_of_birth,significant_strikes_landed_per_minute,significant_striking_accuracy,significant_strikes_absorbed_per_minute,significant_strike_defence,average_takedowns_landed_per_15_minutes,takedown_accuracy,takedown_defense,average_submissions_attempted_per_15_minutes,weightclass
+1,Georges St. Pierre,26-2-0,37468,Rush,26,2,0,180,84,193.04,Orthodox,1981-05-19,3.78,53.0,1.4,72.0,4.16,74.0,83.0,1.1,Light Heavyweight
+2,Jon Jones,28-1-0,35223,Bones,27,1,0,193,112,213.36,Orthodox,1987-07-19,4.29,57.0,2.22,64.0,1.93,45.0,95.0,0.5,Heavyweight
+3,Jose Aldo,32-9-0,24746,No Nickname,31,8,0,170,61,177.8,Orthodox,1986-09-09,3.57,46.0,3.74,60.0,0.49,54.0,91.0,0.1,Bantamweight
+4,Anderson Silva,34-11-0,22379,The Spider,34,11,0,188,84,195.58,Southpaw,1975-04-14,3.05,61.0,2.05,60.0,0.5,77.0,69.0,0.8,Light Heavyweight
+5,Fedor Emelianenko,40-7-0,22198,The Last Emperor,36,5,0,183,104,187.96,Orthodox,1976-09-28,3.18,51.0,1.0,63.0,2.0,63.0,82.0,1.9,Heavyweight
+6,Matt Hughes,45-9-0,20817,No Nickname,45,9,0,175,77,185.42,Switch,1973-10-13,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,Welterweight
+7,Alexander Volkanovski,26-4-0,15792,The Great,26,3,0,168,66,180.34,Orthodox,1988-09-29,6.19,57.0,3.42,58.0,1.84,37.0,70.0,0.2,Lightweight
+8,Max Holloway,26-8-0,14349,Blessed,25,7,0,180,66,175.26,Orthodox,1991-12-04,7.17,47.0,4.75,59.0,0.27,53.0,84.0,0.3,Lightweight
+9,Demetrious Johnson,25-4-1,14098,Mighty Mouse,27,3,1,160,57,167.64,Orthodox,1986-08-13,3.43,54.0,1.66,67.0,3.35,56.0,65.0,0.5,Bantamweight
+10,B.J. Penn,16-14-2,13371,The Prodigy,16,14,2,175,70,177.8,Orthodox,1978-12-13,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,Lightweight
+11,Kamaru Usman,20-4-0,12834,The Nigerian Nightmare,20,4,0,183,77,193.04,Switch,1987-05-11,4.36,52.0,2.74,54.0,2.82,45.0,89.0,0.1,Welterweight
+12,Israel Adesanya,24-4-0,12814,The Last Stylebender,24,3,0,193,84,203.2,Switch,1989-07-22,3.93,48.0,3.11,56.0,0.05,14.0,77.0,0.1,Light Heavyweight
+13,Khabib Nurmagomedov,29-0-0,12774,The Eagle,29,0,0,178,70,177.8,Orthodox,1988-09-20,4.1,48.0,1.75,65.0,5.32,48.0,84.0,0.8,Lightweight
+14,Daniel Cormier,22-3-0,12669,DC,22,3,0,180,107,182.88,Orthodox,1979-03-20,4.25,52.0,2.92,54.0,1.83,44.0,80.0,0.4,Heavyweight
+15,Dan Henderson,32-15-0,12315,Hendo,32,15,0,180,84,187.96,Orthodox,1970-08-24,2.44,47.0,2.7,51.0,1.52,52.0,57.0,0.3,Light Heavyweight
+16,Antonio Rodrigo Nogueira,34-10-1,11334,Minotauro,34,10,1,190,109,195.58,Orthodox,1976-06-02,1.95,42.0,2.4,55.0,1.3,29.0,36.0,2.4,Heavyweight
+17,Stipe Miocic,20-5-0,11299,No Nickname,20,4,0,193,109,203.2,Orthodox,1982-08-19,4.82,53.0,3.82,54.0,1.86,34.0,68.0,0.0,Heavyweight
+18,Randy Couture,19-11-0,10581,The Natural,19,11,0,185,93,190.5,Orthodox,1963-06-22,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,Light Heavyweight
+19,Frankie Edgar,24-11-1,10225,The Answer,23,11,1,168,61,172.72,Orthodox,1981-10-16,3.77,40.0,2.82,65.0,2.29,31.0,65.0,0.3,Bantamweight
+20,Urijah Faber,35-11-0,10034,The California Kid,35,11,0,168,61,170.18,Orthodox,1979-05-14,2.65,40.0,2.59,64.0,1.54,30.0,58.0,0.8,Bantamweight
+21,Lyoto Machida,26-12-0,9406,The Dragon,24,8,0,185,84,187.96,Southpaw,1978-05-30,2.59,53.0,1.57,61.0,1.21,65.0,75.0,0.4,Light Heavyweight
+22,Chris Weidman,16-8-0,9145,The All-American,15,7,0,188,84,198.12,Orthodox,1984-06-17,2.98,43.0,3.27,50.0,3.6,43.0,65.0,0.8,Light Heavyweight
+23,Islam Makhachev,26-1-0,9085,No Nickname,25,1,0,178,70,177.8,Southpaw,1991-10-27,2.46,60.0,1.27,61.0,3.17,60.0,90.0,1.0,Lightweight
+24,Tyron Woodley,19-7-1,8826,The Chosen One,19,7,1,175,77,187.96,Orthodox,1982-04-07,2.36,48.0,2.76,54.0,1.06,40.0,87.0,0.4,Welterweight
+25,Wanderlei Silva,35-14-1,8812,The Axe Murderer,35,13,1,180,93,187.96,Orthodox,1976-07-03,2.79,40.0,2.19,60.0,0.97,53.0,62.0,0.6,Light Heavyweight
+26,Chuck Liddell,21-9-0,8795,The Iceman,21,8,0,188,93,193.04,Orthodox,1969-12-17,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,Light Heavyweight
+27,Eddie Alvarez,30-8-0,8724,No Nickname,29,6,0,175,70,175.26,Orthodox,1984-01-11,4.32,41.0,4.39,55.0,2.92,36.0,92.0,0.5,Lightweight
+28,Rafael dos Anjos,32-17-0,8523,No Nickname,32,15,0,173,77,177.8,Southpaw,1984-10-26,3.52,47.0,3.19,60.0,2.01,35.0,56.0,0.6,Welterweight
+29,Dustin Poirier,30-9-0,8492,The Diamond,29,8,0,175,70,182.88,Southpaw,1989-01-19,5.49,50.0,4.3,53.0,1.36,36.0,63.0,1.2,Lightweight
+30,Dominick Cruz,24-4-0,8478,The Dominator,24,4,0,173,61,172.72,Orthodox,1985-03-09,3.91,33.0,2.61,70.0,2.82,42.0,83.0,0.1,Bantamweight
+31,Cain Velasquez,14-3-0,8324,No Nickname,14,3,0,185,109,195.58,Orthodox,1982-07-28,6.37,57.0,2.33,57.0,5.13,45.0,85.0,0.4,Heavyweight
+32,Robbie Lawler,30-16-0,8253,Ruthless,30,16,0,180,77,187.96,Southpaw,1982-03-20,3.85,47.0,4.67,59.0,0.65,64.0,65.0,0.0,Welterweight
+33,Leon Edwards,22-4-0,8135,Rocky,21,3,0,188,77,187.96,Southpaw,1991-08-25,2.8,53.0,2.4,53.0,1.26,33.0,69.0,0.3,Welterweight
+34,Fabricio Werdum,24-10-1,8106,Vai Cavalo,24,9,1,193,105,195.58,Orthodox,1977-07-30,3.59,52.0,2.64,55.0,1.75,31.0,31.0,1.2,Heavyweight
+35,Tito Ortiz,22-12-1,7961,The People's Champ,19,12,1,190,93,187.96,Orthodox,1975-01-23,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,Light Heavyweight
