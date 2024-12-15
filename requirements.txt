@@ -1,1 +1,2 @@
-pandas plotly_express 
+pandas 
+plotly_express 
